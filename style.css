@@ -1,0 +1,78 @@
+.gallery img{
+    width: 50%;
+    padding-left: 320px;
+}
+
+h1{
+    font-family: Impact, fantasy;
+    font-size: 50px;
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
+
+h2{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: #081d63;
+    font-style: italic;
+}
+
+
+
+p{
+    font-family: Helvetica, sans-serif;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: #081d63;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: rgb(97, 147, 240);
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #081d63;
+    color: white;
+}
+
+tr:hover {
+    background-color: rgb(97, 147, 240);
+}
+
+button {
+    background-color: #081d63;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
